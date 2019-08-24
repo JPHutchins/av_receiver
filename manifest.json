@@ -1,0 +1,8 @@
+{
+  "domain": "av_receiver",
+  "name": "A/V Receiver",
+  "documentation": "",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": []
+}
